@@ -1,2 +1,2 @@
 # cordel-moderno
- Página com efeito paralas 
+ Página com efeito paralax
