@@ -1,6 +1,6 @@
-# cordel-moderno
- Página com efeito parallax
+# Cordel Moderno
+ Página com efeito parallax simples
  
-Veja e ouça
+Veja e ouça:
 
 [Cordel Moderno - Tecnologia do Agora](https://gracibrea.github.io/cordel-moderno/)
